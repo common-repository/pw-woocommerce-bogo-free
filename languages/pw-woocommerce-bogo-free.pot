@@ -1,0 +1,246 @@
+# Copyright (C) 2019 PW WooCommerce BOGO Free
+# This file is distributed under the same license as the PW WooCommerce BOGO Free package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PW WooCommerce BOGO Free 2.22\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/free\n"
+"POT-Creation-Date: 2019-12-11 22:37:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: pw-woocommerce-bogo-free.php:107
+msgctxt "Post Type General Name"
+msgid "PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:108
+msgctxt "Post Type Singular Name"
+msgid "PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:109 pw-woocommerce-bogo-free.php:110
+#: pw-woocommerce-bogo-free.php:113 pw-woocommerce-bogo-free.php:135
+#: pw-woocommerce-bogo-free.php:136 pw-woocommerce-bogo-free.php:167
+#: pw-woocommerce-bogo-free.php:178
+msgid "PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:111
+msgid "PW BOGO Archives"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:112
+msgid "Parent PW BOGO:"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:114
+msgid "Add New PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:115
+msgid "Create New PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:116
+msgid "New PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:117
+msgid "Edit PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:118
+msgid "Update PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:119
+msgid "View PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:120
+msgid "Search PW BOGO"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:121
+msgid "Not found"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:122
+msgid "Not found in Trash"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:123
+msgid "PW BOGO Logo"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:124
+msgid "Set PW BOGO Logo"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:125
+msgid "Remove PW BOGO Logo"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:126
+msgid "Use as PW BOGO Logo"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:127
+msgid "Insert into item"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:128
+msgid "Uploaded to this item"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:129
+msgid "PW BOGO list"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:130
+msgid "PW BOGO list navigation"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:131
+msgid "Filter PW BOGO list"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:159
+msgid "About"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:160
+msgid "Yes, it really is this easy!"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:161
+msgid "Want more control?"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:168 pw-woocommerce-bogo-free.php:179
+msgid "Pimwick Plugins"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:207
+msgctxt "pw-woocommerce-bogo-free"
+msgid "Name"
+msgstr ""
+
+#: pw-woocommerce-bogo-free.php:215 pw-woocommerce-bogo-free.php:220
+msgid "Coupon: %s"
+msgstr ""
+
+#: ui/meta-boxes.php:32
+msgid ""
+"Just enter a title and click Publish. The title will be shown to the "
+"customer in the cart and all WooCommerce products in your catalog will be "
+"eligible for \"Buy One, Get One of equal or lesser value for free.\""
+msgstr ""
+
+#: ui/meta-boxes.php:33
+msgid "To end the promotion, simply click Move to Trash."
+msgstr ""
+
+#: ui/meta-boxes.php:40
+msgid "features"
+msgstr ""
+
+#: ui/meta-boxes.php:43
+msgid "Buy One, Get One Free"
+msgstr ""
+
+#: ui/meta-boxes.php:44
+msgid "Buy X, Get X e.g. Buy 3, Get 2 Free"
+msgstr ""
+
+#: ui/meta-boxes.php:45
+msgid "% Off e.g. Buy Two, Get One 75% Off"
+msgstr ""
+
+#: ui/meta-boxes.php:46
+msgid "Buy X, Get Y for % off"
+msgstr ""
+
+#: ui/meta-boxes.php:47
+msgid "Spend a certain amount, Get Y for % Off"
+msgstr ""
+
+#: ui/meta-boxes.php:48
+msgid "Consecutive discounts e.g. “Buy 1 Get 1 Half Off or Buy 2 Get 1 Free”"
+msgstr ""
+
+#: ui/meta-boxes.php:51
+msgid "Common sense configuration options make customization easy:"
+msgstr ""
+
+#: ui/meta-boxes.php:53
+msgid "Schedule begin and end dates for the promotions"
+msgstr ""
+
+#: ui/meta-boxes.php:54
+msgid "Specify products by category"
+msgstr ""
+
+#: ui/meta-boxes.php:55
+msgid "Include or exclude individual products"
+msgstr ""
+
+#: ui/meta-boxes.php:56
+msgid "Eligible products can be different than the Discounted products"
+msgstr ""
+
+#: ui/meta-boxes.php:57
+msgid "Automatically add discounted products to the customer’s cart"
+msgstr ""
+
+#: ui/meta-boxes.php:58
+msgid "Require a coupon code to activate the BOGO"
+msgstr ""
+
+#: ui/meta-boxes.php:59
+msgid ""
+"Limit the number of times the BOGO deal can be applied per order or for all "
+"customers"
+msgstr ""
+
+#: ui/meta-boxes.php:60
+msgid "Specify that only identical products or variations are discounted"
+msgstr ""
+
+#: ui/meta-boxes.php:61
+msgid ""
+"Options to exclude sale items or not allow other coupons in conjunction with "
+"BOGO offer"
+msgstr ""
+
+#: ui/meta-boxes.php:62
+msgid "Compatible with all major payment gateways such as PayPal and Klarna"
+msgstr ""
+
+#: ui/meta-boxes.php:65
+msgid "Learn more!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PW WooCommerce BOGO Free"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.pimwick.com/pw-bogo/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Makes Buy One, Get One promotions so easy!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pimwick, LLC"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pimwick.com"
+msgstr ""

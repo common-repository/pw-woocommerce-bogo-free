@@ -1,0 +1,51 @@
+.pw-bogo-link {
+    text-decoration: none;
+}
+
+.pw-bogo-link:hover {
+    color: #A4A0A0;
+    cursor: pointer;
+}
+
+.pw-bogo-title {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+.pw-bogo-version {
+    font-size: 0.8em;
+}
+
+#pw-bogo-content {
+    padding-top: 25px;
+}
+
+.pw-bogo-activation-p {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    line-height: 19.5px;
+}
+
+.pw-bogo-buy-button {
+    margin: 1em 2em !important;
+}
+
+.pw-bogo-features-header {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-top: 1em;
+}
+
+.pw-bogo-features-list {
+    list-style-type: circle;
+    margin-left: 5em;
+}
+
+.pw-bogo-logo {
+    border-radius: 10px;
+}
+
+#adminmenu li.menu-top[class*="pimwick"] .wp-menu-image img {
+    width: 18px;
+}
